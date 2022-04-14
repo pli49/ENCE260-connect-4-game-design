@@ -1,0 +1,27 @@
+INSTRUCTION TO PLAYERS:
+
+
+Rule:
+Winner is the first player to get an continous row of four LEDs on horizontally,vertically,or diagonally.
+
+Draw could be resulted when all the matrix is too full to a light further LED.
+
+
+
+Placing led:
+Press the navigational switch up(North): row ++.
+press the navigational switch down(South) : row--;
+Press the navigational switch right(East): column ++.
+press the navigational switch left(West) : column--;
+press the navigational switch push: flash the corresponding on another player's board.
+
+Display led matrix:
+Setted LED will not flash.
+Received LED will flash.
+
+Others:
+If players want to set an unavailable LED(The LED is setted or received), the LED will not flash on another player's board when pressing the navigational switch push.
+
+
+
+
